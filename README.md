@@ -1,4 +1,4 @@
-# tremor2024
+# tremor2026
 
 1. Download this repo.
 
